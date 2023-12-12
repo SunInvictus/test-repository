@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Кармазин Евгений Дмитриевич - 020303 АИСа-о20";
+  const greeting = "Кармазин Евгений Дмитриевич - 020303 АИСа-о20 ---";
 
 
   return (
