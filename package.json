@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://suninvictus.github.io/test-repository/",
   "repository": {
-    "url": "https://github.com/SunInvictus/test-repository/"
+    "url": "https://github.com/SunInvictus/test-repository.git"
     },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
