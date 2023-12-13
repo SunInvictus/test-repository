@@ -1,5 +1,5 @@
 # Тестовый React проект
-# Add semantic release
+
 # Данный проект был создан с помощью Create React App.
 
 ## Доступные скрипты
